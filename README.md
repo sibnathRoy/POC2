@@ -1,3 +1,3 @@
 # vatech-nextjs
 
-# by alithemes.com
+# by Sibnath Roy
